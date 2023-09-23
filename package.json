@@ -1,0 +1,33 @@
+{
+  "name": "nodejs-redis-example",
+  "version": "1.0.0",
+  "description": "Node.js redis example.",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metncelik/nodejs-redis-example.git"
+  },
+  "keywords": [
+    "nodejs",
+    "redis",
+    "redis",
+    "node",
+    "redis",
+    "cache",
+    "database"
+  ],
+  "author": "metncelik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metncelik/nodejs-redis-example/issues"
+  },
+  "homepage": "https://github.com/metncelik/nodejs-redis-example#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "redis": "^4.6.10"
+  }
+}
